@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /
-    destination: /var/www/nextjs-app/
+    destination: /home/ubuntu/nextjs-app/
 
 hooks:
   BeforeInstall:
