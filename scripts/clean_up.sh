@@ -14,5 +14,4 @@ echo "Removed .next."
 sudo rm -rf package-lock.json
 echo "Removed package-lock.json."
 
-mkdir /home/ubuntu/nextjs-app/test_directory
-touch /home/ubuntu/nextjs-app/test_file.txt
+npm install
