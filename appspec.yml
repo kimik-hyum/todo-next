@@ -6,7 +6,7 @@ files:
     destination: /home/ubuntu/nextjs-app/
 
 hooks:
-  BeforeInstall:
+  AfterInstall:
     - location: scripts/clean_up.sh
       timeout: 300
       runas: root
