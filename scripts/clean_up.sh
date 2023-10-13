@@ -1,6 +1,5 @@
 #!/bin/bash
-
-source /home/ubuntu/.bashrc
+export PATH=$PATH:/home/ubuntu/.nvm/versions/node/v18.15.0/bin
 
 echo "Starting clean up script."
 
