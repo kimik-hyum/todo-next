@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source /home/ubuntu/.bashrc
+
 echo "Starting clean up script."
 
 cd /home/ubuntu/nextjs-app
